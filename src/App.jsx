@@ -1,6 +1,6 @@
 import Sidebar from "./Components/Sidebar";
 import Header from "./Components/header";
-import CalendarGrid from "./Components/Calendar";
+import CalendarGrid from "./Components/CalendarGrid";
 
 
 function App() {
